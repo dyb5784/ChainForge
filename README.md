@@ -116,6 +116,8 @@ Unlike these projects, we are focusing on supporting evaluation across prompts, 
 
 We welcome open-source collaborators. If you want to report a bug or request a feature, open an [Issue](https://github.com/ianarawjo/ChainForge/issues). We also encourage users to implement the requested feature / bug fix and submit a Pull Request. 
 
+Feature request [Ollama #160](https://github.com/ianarawjo/ChainForge/issues/116#issuecomment-1673461235) got the go ahead second half August 2023
+
 _(If you are an investor or funder, send us a message via email.)_
 
 ------------------
